@@ -1,6 +1,6 @@
-# Machine learning focusing on Deep Learning
+# Machine Learning and Deep Learning
 
-Machine Learning focusing on Deep Learning references~!
+Reference links~!
 
 http://hunkim.github.io/ml/
 
